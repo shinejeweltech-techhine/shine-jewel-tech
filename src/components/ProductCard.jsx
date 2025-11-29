@@ -9,7 +9,7 @@ const ProductCard = ({ product }) => {
   }
 
   const handleImageError = (e) => {
-    e.target.src = 'https://images.unsplash.com/photo-1581094794329-cd6d1d3d7ebd?ixlib=rb-1.2.1&auto=format&fit=crop&w=1350&q=80'
+    e.target.src = 'https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi-mKVPip0R8h8uf0dCsmd3cIUD_dJzvLxFBXT80fHWhD5PAAcW0zYCPMaVkO-xWDTZsEP2p_8OuP0_OHmyphRbmGb5l_zYa8Vz3w7nYZtWwoGbDxCqwvFJ6Fxss0hG_cSvYGgBAVFSo0FYZSk06FnIpQxnOsLwIkNXXgAE9UPrwtR6J2431-ubBiX3Rsg/s1024/Gemini_Generated_Image_3kfjiu3kfjiu3kfj.png'
   }
 
   return (
